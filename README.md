@@ -21,6 +21,8 @@ Form4.cs文件的Login_Load进行修改
 不想动的话可以直接修改DataBaseinfo.ini里面的参数
 登录等功能都靠Mysql实现，无Mysql软件就寄了
 
-# Packages包
-MySql.Data.8.0.11
-Newtonsoft.Json.13.0.3
+# Packages包  
+MySql.Data.8.0.11  
+Newtonsoft.Json.13.0.3  
+
+配套的Unity程序在这 LINK https://github.com/Sakuremz/Unity-Smart-cabinet/
